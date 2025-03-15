@@ -1,6 +1,6 @@
 Create a powerful website with highly professional decoration and animation using the following technologies:
 
-✅ Frontend: HTML, CSS
+✅ Frontend: HTML5, CSS3
 
 🗂️ Proyect Structure:
 
