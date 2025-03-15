@@ -2,7 +2,7 @@ Create a powerful website with highly professional decoration and animation usin
 
 🗂️ Proyect Structure:
 
-📂 maths-tutotials-website/
-├── 📁 public/ (Accessible files, HTML, CSS, JS)
-├── 📁 assets/ (Images, icons, etc.)
+📂 maths-tutotials-website/  
+├── 📁 public/ (Accessible files, HTML, CSS, JS)  
+├── 📁 assets/ (Images, icons, etc.)  
 
