@@ -1,4 +1,6 @@
-Create a powerful website with highly professional decoration and animation using HTML5 & CSS3.
+Create a powerful website with highly professional decoration and animation using the following technologies:
+
+✅ Frontend: HTML, CSS
 
 🗂️ Proyect Structure:
 
